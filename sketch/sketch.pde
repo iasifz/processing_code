@@ -51,7 +51,7 @@ void draw(){
     
      println(frameCount);
      println(frameRate);
-     saveFrame("/home/asif/matrices/dim//diminished-###.tif");
+     // saveFrame("");
      if(frameCount == 300){
          noLoop();
      }
